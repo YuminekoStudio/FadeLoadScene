@@ -13,3 +13,8 @@
 
 ## 解説記事
 執筆予定
+
+## クレジット
+実装にあたり[UniTask](http://tech.cygames.co.jp/archives/3256/)を使用しています。
+UniTaskは本テンプレート同様、MITライセンスです。
+
