@@ -1,10 +1,6 @@
 {
-    "name": "Yumineko.SceneLoader",
-    "references": [
-        "GUID:f51ebe6a0ceec4240a699833d6309b23",
-        "GUID:ca74db8af63cb904e876a9e27323c082",
-        "GUID:dfe22766646d39b42ae52205591613cb"
-    ],
+    "name": "Yumineko.Lib",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
